@@ -1,14 +1,92 @@
 [
   {
     "id": "quiz_001",
-    "question": "Mizo Hmeichhe zingah tunge hmingthang ber?",
-    "options": ["Lalṭhuami", "Laltheri", "Saikuti", "Ropuiliani"],
-    "correctIndex": 3
+    "question": "(Thlohpui rorel) tih awmzia chu?",
+    "options": ["Kim lo taka ro rel", "A bul aṭanga ṭan leh ṭhin", "Thil ti zung zung", "Felfai taka ro rel"],
+    "correctIndex": 1
   },
   {
     "id": "quiz_002",
-    "question": "Sakei nena inbei ṭhin Mizo pasaltha hmingthang chu tunge?",
-    "options": ["Khuangchera", "Chawngbawla", "Vanapa", "Taitesena"],
+    "question": "(Kelphung tap chim hmu ang) tih awmzia chu?",
+    "options": ["Lawm taka nui vur vur", "Hlauhlawpa tlanchhia", "Zawngchhang", "Lungawi lo"],
+    "correctIndex": 2
+  }
+  {
+    "id": "quiz_003",
+    "question": "Lo vata an thawh ni hmasa berah an ___ ngai lo.",
+    "options": ["Haw tlai", "Haw hma", "Kal tlai", "Riak"],
+    "correctIndex": 3
+  }
+  {
+    "id": "quiz_004",
+    "question": "Thing zung tuahin ___",
+    "options": ["Hritlang a leng duh", "Ramhuaiin an hua", "Ramhuai an lo kal duh", "Ruang a chhuak duh"],
+    "correctIndex": 0
+  }
+  {
+    "id": "quiz_005",
+    "question": "(Ui hli pâ ang) tih awmzia chu?",
+    "options": ["Kûl rân", "Harhvang", "Chimawm", "Bengchheng"],
+    "correctIndex": 0
+  }
+  {
+    "id": "quiz_006",
+    "question": "Pi leh pute puithunaah chuan Vamur sawisak hian ___",
+    "options": ["Lei a min duh", "Thlipui a na duh", "Ruah a tam duh", "Khua a kheng duh"],
     "correctIndex": 1
+  }
+  {
+    "id": "quiz_007",
+    "question": "(Mahni mal chunga sa chan) tih awmzia chu?",
+    "options": ["Mahni hma sial", "Mahni inti mualpho", "Mahni inti hrehawm", "Mahni inti pem palh"],
+    "correctIndex": 0
+  }
+  {
+    "id": "quiz_008",
+    "question": "German ral run hla hi ___ a ni.",
+    "options": ["Chawngchen", "Chai hla", "Chheih zai", "Thlang zai"],
+    "correctIndex": 2
+  }
+  {
+    "id": "quiz_009",
+    "question": "(Sal lovin) tih awmzia chu?",
+    "options": ["Mathei lovin", "Inti hrang lovin", "Duh lo chungin", "Châk tak chungin"],
+    "correctIndex": 0
+  }
+  {
+    "id": "quiz_010",
+    "question": "(Themtleng tê zâwk ang) tih awmzia chu?",
+    "options": ["Ṭhianho zinga a te fal bik", "Ti ve chhen/Lo inrawlh ve chhen", "Puan tahna hmanraw chi khat", "Thil te tak tê, tle tak leh vang tak"],
+    "correctIndex": 1
+  }
+  {
+    "id": "quiz_011",
+    "question": "(Zawhte mei la ang) tih awmzia chu?",
+    "options": ["Thang rei", "Hmanhmawh", "Muang", "La kim lo nuaih"],
+    "correctIndex": 0
+  }
+  {
+    "id": "quiz_012",
+    "question": "(Vazûn mei ang) tih awmzia chu?",
+    "options": ["Inchen ṭhap", "Insei hleih", "Bul mût", "Arh hluai"],
+    "correctIndex": 1
+  }
+  {
+    "id": "quiz_013",
+    "question": "(Chite Lui) tih hla phuahtu chu?",
+    "options": ["Vankhama", "PS Chawngthu", "Kawlnia", "Rokunga"],
+    "correctIndex": 3
+  }
+  {
+    "id": "quiz_014",
+    "question": "(Tuitai ni chuang ang) tih awmzia chu?",
+    "options": ["Ngo paw pheu", "Hang thil thel", "Thinrim reng", "Ze zawi"],
+    "correctIndex": 0
+  }
+  {
+    "id": "quiz_015",
+    "question": "(Tui dai dek) tih awmzia chu?",
+    "options": ["Kawng bo", "Tuia tlaa thi", "Tui thiam tak", "Fatu"],
+    "correctIndex": 3
   }
 ]
