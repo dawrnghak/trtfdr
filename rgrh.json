@@ -1,0 +1,14 @@
+[
+  {
+    "id": "quiz_001",
+    "question": "Mizo Hmeichhe zingah tunge hmingthang ber?",
+    "options": ["Lalṭhuami", "Laltheri", "Saikuti", "Ropuiliani"],
+    "correctIndex": 3
+  },
+  {
+    "id": "quiz_002",
+    "question": "Sakei nena inbei ṭhin Mizo pasaltha hmingthang chu tunge?",
+    "options": ["Khuangchera", "Chawngbawla", "Vanapa", "Taitesena"],
+    "correctIndex": 1
+  }
+]
